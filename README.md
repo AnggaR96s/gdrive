@@ -40,6 +40,7 @@ Check our [releases](https://github.com/gdrive-org/gdrive/releases) section.
 
 | Filename               | Version | Description        | Shasum                                   |
 |:-----------------------|:--------|:-------------------|:-----------------------------------------|
+| [gdrive-linux-x64](https://github.com/AnggaR96s/gdrive/releases/download/2.1.0.1/gdrive) | 2.1.0.1 | Linux 64-bit | a04db495ba2a26e9ffae5caf7a3f707c7e3b9967 |
 | [gdrive-osx-x64](https://github.com/gdrive-org/gdrive/releases/download/2.1.0/gdrive-osx-x64) | 2.1.0 | OS X 64-bit | 2d817cab0912e0efa5529ada7a4bb73fe90d2d74 |
 | [gdrive-osx-386](https://github.com/gdrive-org/gdrive/releases/download/2.1.0/gdrive-osx-386) | 2.1.0 | OS X 32-bit | ed1a12998270f8176c96729d80f3f7307a2e2db6 |
 | [gdrive-linux-x64](https://github.com/gdrive-org/gdrive/releases/download/2.1.0/gdrive-linux-x64) | 2.1.0 | Linux 64-bit | 6ef7c740e980358a9a5de36c1aac7ea375319aa3 |
@@ -69,7 +70,7 @@ Check our [releases](https://github.com/gdrive-org/gdrive/releases) section.
 
 ## Compile from source
 ```bash
-go get github.com/prasmussen/gdrive
+go get github.com/AnggaR96s/gdrive
 ```
 The gdrive binary should now be available at `$GOPATH/bin/gdrive`
 
