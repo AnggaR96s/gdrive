@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/prasmussen/gdrive/auth"
-	"github.com/prasmussen/gdrive/cli"
-	"github.com/prasmussen/gdrive/drive"
+	"github.com/AnggaR96s/gdrive/auth"
+	"github.com/AnggaR96s/gdrive/cli"
+	"github.com/AnggaR96s/gdrive/drive"
 )
 
 const ClientId = "311209039068-ogte4eb07n9bsel2q0imk68e981592b4.apps.googleusercontent.com"
